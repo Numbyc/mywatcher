@@ -1,4 +1,4 @@
-package com.numbyc.mywatcher.beans.upload;
+package com.numbyc.mywatcher.beans.common;
 
 public class ResultBean {
     private String code;

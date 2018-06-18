@@ -1,8 +1,8 @@
 package com.numbyc.mywatcher.controller;
 
-import com.numbyc.mywatcher.beans.common.CheckFileResult;
+import com.numbyc.mywatcher.beans.upload.CheckFileResult;
 import com.numbyc.mywatcher.beans.upload.MergeFile;
-import com.numbyc.mywatcher.beans.upload.ResultBean;
+import com.numbyc.mywatcher.beans.common.ResultBean;
 import com.numbyc.mywatcher.beans.upload.UploadFile;
 import com.numbyc.mywatcher.utils.FileUtils;
 import org.springframework.beans.factory.annotation.Value;

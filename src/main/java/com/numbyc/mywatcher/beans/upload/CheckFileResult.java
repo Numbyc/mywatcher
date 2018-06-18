@@ -1,4 +1,4 @@
-package com.numbyc.mywatcher.beans.common;
+package com.numbyc.mywatcher.beans.upload;
 
 public class CheckFileResult {
     private String code;
